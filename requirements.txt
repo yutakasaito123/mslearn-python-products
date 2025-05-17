@@ -1,2 +1,6 @@
 # Flask Framework
 Flask==2.3.3
+REQUESTS==2.28.1
+pyperclip
+beautifulsoup4
+
